@@ -220,6 +220,16 @@
             "id": "ad4f41d0801f2a8f",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "c57d9dd5d973aecd",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -227,7 +237,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -251,7 +261,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a100ee89889cba99",
+  "active": "c57d9dd5d973aecd",
   "lastOpenFiles": [
     "00 Vault Info/Untitled.md",
     "00 Vault Info/05 Dataview Cheatsheet.md",

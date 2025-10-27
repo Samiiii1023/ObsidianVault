@@ -1,1 +1,6 @@
-{}
+{
+  "cssTheme": "Blue Topaz",
+  "monospaceFontFamily": "CaskaydiaCove Nerd Font",
+  "textFontFamily": "CaskaydiaCove Nerd Font",
+  "interfaceFontFamily": "CaskaydiaCove Nerd Font Mono"
+}
