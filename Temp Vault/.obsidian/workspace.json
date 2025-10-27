@@ -1,0 +1,293 @@
+{
+  "main": {
+    "id": "c13be5e260867173",
+    "type": "split",
+    "children": [
+      {
+        "id": "eab73778ddc1706f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a100ee89889cba99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Vault Info/05 Dataview Cheatsheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 Dataview Cheatsheet"
+            },
+            "group": "8b04d9039dfa4aab"
+          }
+        ]
+      },
+      {
+        "id": "089ccac300c9e77d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0caeb64ba5daef29",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "00 Vault Info/05 Dataview Cheatsheet.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of 05 Dataview Cheatsheet"
+            },
+            "group": "8b04d9039dfa4aab"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c6bd3274ddeed05",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f01e6bcdd25e350",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa9bef1b0054930a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a76ac877c26944e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a9b43c59ab7eb2f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "cf675ac653082678",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6a7cb2dc8fde2b1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "124f96c05e1a7595",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d363102422ce6b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "bdc770d403c93d17",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "d19a5f712ecc5785",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2569dc985a131c4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "af18a9dfe0a85522",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "ad4f41d0801f2a8f",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "a100ee89889cba99",
+  "lastOpenFiles": [
+    "00 Vault Info/Untitled.md",
+    "00 Vault Info/05 Dataview Cheatsheet.md",
+    "00 Vault Info/04 Backup and Maintenance.md",
+    "00 Vault Info/03 Plugin Setup.md",
+    "00 Vault Info/02 Workflow Guide.md",
+    "00 Vault Info/01 Tagging and Naming.md",
+    "00 Vault Info/00 Vault Overview.md",
+    "05 Templates/Literature Note Template.md",
+    "04 Projects (Papers)/Main.md",
+    "05 Templates/Zettel Template.md",
+    "05 Templates/Project Template.md",
+    "05 Templates/Daily Notion Template.md",
+    "09 Dashboard/Main Dashboard.md",
+    "09 Dashboard/Area Dashboard.md",
+    "07 References (Formulas)/Books/Main.md",
+    "05 Templates/Area Template.md",
+    "06 Resources/main.md",
+    "06 Resources/Data",
+    "06 Resources/Code",
+    "06 Resources/Images",
+    "06 Resources/PDFs",
+    "06 Resources/Drawings",
+    "07 References (Formulas)/Websites/Main.md",
+    "07 References (Formulas)/Papers/Main.md",
+    "08 Archive/Main.md",
+    "07 References (Formulas)/Websites",
+    "07 References (Formulas)/Papers",
+    "07 References (Formulas)/Books",
+    "08 Archive/Resources",
+    "08 Archive/Literatures",
+    "08 Archive/Projects.md",
+    "08 Archive/Untitled.md",
+    "08 Archive/Zettels/Notes.md",
+    "08 Archive/Zettels.md",
+    "09 Dashboard/Zettel Dashboard.md",
+    "09 Dashboard/Drawing 2025-10-27 14.05.13.excalidraw.md"
+  ]
+}
