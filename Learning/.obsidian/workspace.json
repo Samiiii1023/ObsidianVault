@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Permanent Notes/DSA/Sorting Algorithms.md",
+                "file": "03 Permanent Notes/DSA/Trees.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sorting Algorithms"
+              "title": "Trees"
             },
             "group": "a5ef410cbf7cd0e3"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 Permanent Notes/DSA/Sorting Algorithms.md",
+                "file": "03 Permanent Notes/DSA/Trees.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -46,15 +46,7 @@
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "path:\"06 Resources/Code\"  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14701138
-                      }
-                    }
-                  ],
+                  "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
@@ -65,12 +57,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.8371173070873852,
+                  "scale": 0.5443310539518178,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Sorting Algorithms"
+              "title": "Graph of Trees"
             },
             "group": "a5ef410cbf7cd0e3"
           }
@@ -268,6 +260,16 @@
             "id": "5cc9f04c8b6cc7a5",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "808a48790523ce61",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -275,7 +277,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -301,10 +303,10 @@
   },
   "active": "a100ee89889cba99",
   "lastOpenFiles": [
-    "03 Permanent Notes/DSA/Hashing.md",
     "03 Permanent Notes/DSA/Sorting Algorithms.md",
-    "03 Permanent Notes/DSA/Heap.md",
+    "03 Permanent Notes/DSA/Hashing.md",
     "03 Permanent Notes/DSA/Graphs.md",
+    "03 Permanent Notes/DSA/Heap.md",
     "03 Permanent Notes/DSA/Trees.md",
     "06 Resources/PDFs/Unconfirmed 837530.crdownload",
     "06 Resources/Code/AVLTree.c.md",
