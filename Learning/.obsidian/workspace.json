@@ -11,14 +11,12 @@
             "id": "a100ee89889cba99",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "03 Permanent Notes/DSA/Trees.md",
-                "mode": "source",
-                "source": false
+                "file": "06 Resources/PDFs/DS using C.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Trees"
+              "icon": "lucide-file-text",
+              "title": "DS using C"
             },
             "group": "a5ef410cbf7cd0e3"
           }
@@ -34,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 Permanent Notes/DSA/Trees.md",
+                "file": "06 Resources/PDFs/DS using C.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +60,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Trees"
+              "title": "Graph of DS using C"
             },
             "group": "a5ef410cbf7cd0e3"
           }
@@ -303,11 +301,11 @@
   },
   "active": "a100ee89889cba99",
   "lastOpenFiles": [
+    "03 Permanent Notes/DSA/Trees.md",
     "03 Permanent Notes/DSA/Sorting Algorithms.md",
     "03 Permanent Notes/DSA/Hashing.md",
     "03 Permanent Notes/DSA/Graphs.md",
     "03 Permanent Notes/DSA/Heap.md",
-    "03 Permanent Notes/DSA/Trees.md",
     "06 Resources/PDFs/Unconfirmed 837530.crdownload",
     "06 Resources/Code/AVLTree.c.md",
     "03 Permanent Notes/Zettles/20251027-154636_AVL Tree.md",
