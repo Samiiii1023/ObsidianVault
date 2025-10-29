@@ -230,6 +230,16 @@
             "id": "c57d9dd5d973aecd",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "f230830ea23739d9",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -237,7 +247,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -261,10 +271,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c57d9dd5d973aecd",
+  "active": "f230830ea23739d9",
   "lastOpenFiles": [
-    "00 Vault Info/Untitled.md",
     "00 Vault Info/05 Dataview Cheatsheet.md",
+    "00 Vault Info/Untitled.md",
     "00 Vault Info/04 Backup and Maintenance.md",
     "00 Vault Info/03 Plugin Setup.md",
     "00 Vault Info/02 Workflow Guide.md",

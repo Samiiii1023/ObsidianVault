@@ -11,12 +11,14 @@
             "id": "a100ee89889cba99",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "06 Resources/PDFs/DS using C.pdf"
+                "file": "09 Dashboard/Main Dashboard.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "DS using C"
+              "icon": "lucide-file",
+              "title": "Main Dashboard"
             },
             "group": "a5ef410cbf7cd0e3"
           }
@@ -32,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "06 Resources/PDFs/DS using C.pdf",
+                "file": "09 Dashboard/Main Dashboard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -55,12 +57,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5443310539518178,
+                  "scale": 1.0000000000000009,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of DS using C"
+              "title": "Graph of Main Dashboard"
             },
             "group": "a5ef410cbf7cd0e3"
           }
@@ -268,6 +270,16 @@
             "id": "808a48790523ce61",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "ff6268b50c9d6eb9",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -275,7 +287,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -296,31 +308,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "moredraw:MoreDraw": false
     }
   },
-  "active": "a100ee89889cba99",
+  "active": "aa9bef1b0054930a",
   "lastOpenFiles": [
-    "03 Permanent Notes/DSA/Trees.md",
+    "03 Permanent Notes/Web Dev./HTML",
+    "03 Permanent Notes/DevOps/Git",
+    "02 Literature Notes/DevOps/Git",
+    "02 Literature Notes/Prog. Lang/C Lang.",
+    "03 Permanent Notes/Prog. Lang/C Lang.",
+    "02 Literature Notes/Web Dev.",
+    "02 Literature Notes/DevOps",
+    "03 Permanent Notes/DevOps",
+    "03 Permanent Notes/Web Dev.",
+    "03 Permanent Notes/Prog. Lang",
+    "02 Literature Notes/Prog. Lang",
+    "03 Permanent Notes/Zettles/20251027-154636_AVL Tree.md",
+    "09 Dashboard/Main Dashboard.md",
+    "09 Dashboard/Area Dashboard.md",
+    "06 Resources/main.md",
     "03 Permanent Notes/DSA/Sorting Algorithms.md",
+    "03 Permanent Notes/DSA/Trees.md",
+    "06 Resources/Drawings/AVLTree.excalidraw.md",
     "03 Permanent Notes/DSA/Hashing.md",
     "03 Permanent Notes/DSA/Graphs.md",
     "03 Permanent Notes/DSA/Heap.md",
-    "06 Resources/PDFs/Unconfirmed 837530.crdownload",
     "06 Resources/Code/AVLTree.c.md",
-    "03 Permanent Notes/Zettles/20251027-154636_AVL Tree.md",
-    "06 Resources/Drawings/AVLTree.excalidraw.md",
     "06 Resources/PDFs/CLRS_Chapter13.pdf.md",
-    "06 Resources/PDFs/DS using C.pdf",
-    "06 Resources/PDFs/Unconfirmed 324469.crdownload",
-    "03 Permanent Notes/Discrete Maths",
-    "03 Permanent Notes/C++",
-    "03 Permanent Notes/Untitled/Calc 2",
-    "03 Permanent Notes/Calc 2",
-    "03 Permanent Notes/Zettles",
-    "02 Literature Notes/DSA",
     "05 Templates/Zettel Template.md",
-    "03 Permanent Notes/DSA",
     "03 Permanent Notes/20251027-154014_.md",
     "03 Permanent Notes/<% tp.date.now(\"YYYYMMDD-HHmm\") %> <% tp.system.prompt(\"Title\") %>.md",
     "04 Projects (Papers)/Main.md",
@@ -332,10 +349,6 @@
     "00 Vault Info/01 Tagging and Naming.md",
     "00 Vault Info/00 Vault Overview.md",
     "05 Templates/Literature Note Template.md",
-    "05 Templates/Project Template.md",
-    "05 Templates/Daily Notion Template.md",
-    "09 Dashboard/Main Dashboard.md",
-    "09 Dashboard/Area Dashboard.md",
-    "07 References (Formulas)/Books/Main.md"
+    "05 Templates/Project Template.md"
   ]
 }
