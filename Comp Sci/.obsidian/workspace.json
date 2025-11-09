@@ -280,6 +280,16 @@
             "id": "ff6268b50c9d6eb9",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "28ef9c787c5b5f96",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -287,7 +297,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "horizontal",
@@ -312,7 +322,7 @@
       "moredraw:MoreDraw": false
     }
   },
-  "active": "aa9bef1b0054930a",
+  "active": "28ef9c787c5b5f96",
   "lastOpenFiles": [
     "03 Permanent Notes/Web Dev./HTML",
     "03 Permanent Notes/DevOps/Git",
