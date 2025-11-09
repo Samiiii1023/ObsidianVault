@@ -4,29 +4,87 @@
     "type": "split",
     "children": [
       {
-        "id": "eab73778ddc1706f",
+        "id": "45656bac7e298db2",
         "type": "tabs",
+        "dimension": 77.5,
         "children": [
           {
-            "id": "a100ee89889cba99",
+            "id": "393ebe17bc008a86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 Dashboard/Main Dashboard.md",
+                "file": "02 Literature Notes/DevOps/Git/Git commands/Git init.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main Dashboard"
-            },
-            "group": "a5ef410cbf7cd0e3"
+              "title": "Git init"
+            }
+          },
+          {
+            "id": "9db55ab8419ecef5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Literature Notes/DevOps/Git/Git commands/Git add.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git add"
+            }
+          },
+          {
+            "id": "9c78aa97a9ce10a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Literature Notes/DevOps/Git/Git commands/Git commit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git commit"
+            }
+          },
+          {
+            "id": "9e7d5a885d0d9eb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Literature Notes/DevOps/Git/Git commands/Git status.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git status"
+            }
+          },
+          {
+            "id": "c7d2bcf37b1dfc0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Literature Notes/DevOps/Git/Git Intro/Version Control System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Version Control System"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
-        "id": "7ceb55fa76f9651e",
+        "id": "8ca402edf4957b62",
         "type": "tabs",
+        "dimension": 22.5,
         "children": [
           {
             "id": "3d9273bbd8a22eff",
@@ -34,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "09 Dashboard/Main Dashboard.md",
+                "file": "02 Literature Notes/DevOps/Git/Git Intro/Version Control System.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -58,13 +116,12 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1.0000000000000009,
-                  "close": false
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Main Dashboard"
-            },
-            "group": "a5ef410cbf7cd0e3"
+              "title": "Graph of Version Control System"
+            }
           }
         ]
       }
@@ -290,6 +347,16 @@
             "id": "28ef9c787c5b5f96",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b9581e632e7ce78a",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -297,7 +364,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
@@ -322,8 +389,33 @@
       "moredraw:MoreDraw": false
     }
   },
-  "active": "28ef9c787c5b5f96",
+  "active": "c7d2bcf37b1dfc0e",
   "lastOpenFiles": [
+    "02 Literature Notes/DevOps/Git/Git commands/Git add.md",
+    "00 Vault Info/00 Vault Overview.md",
+    "00 Vault Info/01 Tagging and Naming.md",
+    "02 Literature Notes/DevOps/Git/Git commands/Save a file in Git.md",
+    "02 Literature Notes/DevOps/Git/Git commands/Git status.md",
+    "02 Literature Notes/DevOps/Git/Git commands/Git commit.md",
+    "02 Literature Notes/DevOps/Git/Git commands/Git init.md",
+    "02 Literature Notes/DevOps/Git/Working with Git/States of a file in git working directory.md",
+    "02 Literature Notes/DevOps/Git/Git commands",
+    "02 Literature Notes/DevOps/Git/Working with Git/Working with git repo.md",
+    "02 Literature Notes/DevOps/Git/Working with Git/Git - setting up a repo.md",
+    "02 Literature Notes/DevOps/Git/Working with Git/Working on Git Bash.md",
+    "02 Literature Notes/DevOps/Git/Working with Git/Using Git on Cli.md",
+    "02 Literature Notes/DevOps/Git/Working with Git/Git Env Setup.md",
+    "02 Literature Notes/DevOps/Git/Git Intro/Readme.md File.md",
+    "02 Literature Notes/DevOps/Git/Working with Git",
+    "02 Literature Notes/DevOps/Git/Git Intro/Git Ignore.md",
+    "02 Literature Notes/DevOps/Git/Git Intro/Bare Repo in Git.md",
+    "02 Literature Notes/DevOps/Git/Git Intro/Git Repo.md",
+    "02 Literature Notes/DevOps/Git/Git Intro/Git Features.md",
+    "02 Literature Notes/DevOps/Git/Git Intro/History of Git.md",
+    "02 Literature Notes/DevOps/Git/Git Intro/What is Git.md",
+    "02 Literature Notes/DevOps/Git/Git Intro/Version Control System.md",
+    "02 Literature Notes/DevOps/Git/Git Intro",
+    "09 Dashboard/Main Dashboard.md",
     "03 Permanent Notes/Web Dev./HTML",
     "03 Permanent Notes/DevOps/Git",
     "02 Literature Notes/DevOps/Git",
@@ -331,34 +423,9 @@
     "03 Permanent Notes/Prog. Lang/C Lang.",
     "02 Literature Notes/Web Dev.",
     "02 Literature Notes/DevOps",
-    "03 Permanent Notes/DevOps",
-    "03 Permanent Notes/Web Dev.",
-    "03 Permanent Notes/Prog. Lang",
-    "02 Literature Notes/Prog. Lang",
     "03 Permanent Notes/Zettles/20251027-154636_AVL Tree.md",
-    "09 Dashboard/Main Dashboard.md",
     "09 Dashboard/Area Dashboard.md",
     "06 Resources/main.md",
-    "03 Permanent Notes/DSA/Sorting Algorithms.md",
-    "03 Permanent Notes/DSA/Trees.md",
-    "06 Resources/Drawings/AVLTree.excalidraw.md",
-    "03 Permanent Notes/DSA/Hashing.md",
-    "03 Permanent Notes/DSA/Graphs.md",
-    "03 Permanent Notes/DSA/Heap.md",
-    "06 Resources/Code/AVLTree.c.md",
-    "06 Resources/PDFs/CLRS_Chapter13.pdf.md",
-    "05 Templates/Zettel Template.md",
-    "03 Permanent Notes/20251027-154014_.md",
-    "03 Permanent Notes/<% tp.date.now(\"YYYYMMDD-HHmm\") %> <% tp.system.prompt(\"Title\") %>.md",
-    "04 Projects (Papers)/Main.md",
-    "00 Vault Info/05 Dataview Cheatsheet.md",
-    "00 Vault Info/Untitled.md",
-    "00 Vault Info/04 Backup and Maintenance.md",
-    "00 Vault Info/03 Plugin Setup.md",
-    "00 Vault Info/02 Workflow Guide.md",
-    "00 Vault Info/01 Tagging and Naming.md",
-    "00 Vault Info/00 Vault Overview.md",
-    "05 Templates/Literature Note Template.md",
-    "05 Templates/Project Template.md"
+    "03 Permanent Notes/DSA/Sorting Algorithms.md"
   ]
 }
