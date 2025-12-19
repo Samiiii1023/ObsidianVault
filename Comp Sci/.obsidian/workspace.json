@@ -315,6 +315,16 @@
             "id": "1d3775d359cb6cf8",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "ab629cdc11f0a4f8",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -322,7 +332,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "horizontal",
@@ -347,7 +357,7 @@
       "moredraw:MoreDraw": false
     }
   },
-  "active": "aa9bef1b0054930a",
+  "active": "ab629cdc11f0a4f8",
   "lastOpenFiles": [
     "SysVanta/C",
     "07 References (Formulas)/Papers/Main.md",
